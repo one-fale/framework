@@ -116,7 +116,7 @@ Google is a tool. ONE FALE is a governance framework that uses tools. The differ
 
 **Q: What is the Leifi History Project?**
 
-The Leifi History Project is a two-volume genealogical, historical, and legal documentation of the Leifi chiefly title spanning approximately one thousand years. It began as a request from an elderly father to compile a simple family history and became something larger — a rigorous mapping of oral tradition against independent documentary sources, cross-referenced across American Samoan and Western Samoan family branches, and tested through active litigation in the Samoan courts. Three Lands and Titles Court victories have been secured. A Supreme Court judicial review is currently active.
+The Leifi History Project is a two-volume genealogical, historical, and legal documentation of the Leifi chiefly title spanning approximately one thousand years. It began as a request from an elderly father to compile a simple family history and became something larger — a rigorous mapping of oral tradition against independent documentary sources, cross-referenced across American Samoan and Western Samoan family branches, and tested through active litigation in the Samoan courts. A Lands and Titles Court victory has been secured. A Supreme Court judicial review is currently active whose grounds for review was produced by OFM manual methods.
 
 ---
 
