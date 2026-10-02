@@ -27,13 +27,20 @@ This framework emerged directly from the Leifi History Project, a forensic recon
 | Taualuga / Roof | Strategic Narrative | The high-integrity protective story. It is the final output of the OHMS cycle, representing the Who, What, Where, When and Why to the outside world. |
 | Pillars of Certainty | 10 Governance Pillars | The 10 central structural pillars representing verified truths. They validate knowledge integrity and connect the foundation to the strategic narrative. |
 | Perimeter Pou / Poles | Authoritative Evidence | The 30 external poles representing the Who. They provide the witnesses, evidence, and ancestral weight needed to turn a central pillar to its verified state. |
-| The Va | Relational Space | The sacred, neutral space between data points. It prevents context loss by monitoring reciprocity, balance, and contribution value between the tenant and external systems. |
+| **Tā** | Time | The beat that marks time. In Pacific thought, tā is time understood as rhythm, interval, and pulse — not a straight line but a repeating beat around which events gather. |
+| **Vā** | The Space Between | The sacred, neutral space between data points. In Pacific thought, vā is the space between two things that relates them — the space between people, places, and generations. Within ONE FALE, it prevents context loss by monitoring reciprocity, balance, and contribution value between the tenant and external systems. |
 | Guardian / You | Sovereign Steward | The human authority sitting at the centre. The Guardian is the final decision-maker responsible for the Fale's restoration and stewardship. |
 | Foundation / ATAMAI Engine | Sovereign Query Engine | A multi-agent AI system that runs the OHMS cycle for forensic truth-building. |
 | Land / Your Sovereign Data | Sovereign Data Bank | The raw, uncolonised data source. The engine maps and indexes this land through an invitation protocol but never occupies it. |
 
 *Note: The 10 Governance Pillars and 30 Perimeter Poles referenced above reflect the Leifi History Project, the founding case study of ONE FALE. They represent one deployment of the framework. Every new tenant onboards with an empty SAR. The pillars and poles are built from their own sovereign data through the OHMS cycle.*
-
+| **Fale** | Traditional Samoan House | The circular Samoan house. It has no internal walls and no fixed front door. Its roof is supported by pillars, and it is the physical form the ONE FALE framework is modelled on. |
+| **Matai** | Titled Authority | A titled holder of Samoan family authority. A matai carries the family name, the land, and the obligations that come with the title, and is recognised by other matai at formal gatherings. |
+| **Lau Tofa** | Formal Address | A term of respect used when addressing a titled person at a formal gathering. "Lau Tofa" precedes the name or title, acknowledging the rank and standing of the person addressed. |
+| **Aiga** | Family | The extended Samoan family. The aiga is the primary unit of belonging, obligation, and land holding. |
+| **Tulafale** | Orator | The designated speaker and memory-keeper of a Samoan family. The tulafale carries the family's history, protocols, and genealogy, and speaks on behalf of the title at formal gatherings. |
+| **Api** | Family History Book | A Samoan family's living record. The api is not simply a book — it is the family history, held by a designated keeper, and appended to as events occur. |
+| **Gafa** | Genealogy | The lineage record of a Samoan family, tracing descent across generations. |
 ---
 
 ## The OHMS Cycle
